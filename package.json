@@ -1,0 +1,14 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "Test project, non Release Project.",
+  "repository": "https://github.com/dangaogit/node-test.git",
+  "author": "dangaogit",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^14.6.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
